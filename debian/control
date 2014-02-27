@@ -1,0 +1,12 @@
+Source: ros-hydro-lms1xx
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-roscpp, ros-hydro-roscpp-serialization, ros-hydro-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-lms1xx
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-roscpp, ros-hydro-roscpp-serialization, ros-hydro-sensor-msgs
+Description: The lms1xx package contains a basic ROS driver for the SICK LMS1xx line of LIDARs.
