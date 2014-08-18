@@ -1,0 +1,25 @@
+ros-indigo-lms1xx (0.1.1-0saucy) saucy; urgency=high
+
+  * Changed the pkg and name so that the launch file is able to find the package.
+  * Fix assignment in if() to comparison.
+  * Contributors: Jeff Schmidt, Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 18 Aug 2014 04:00:00 -0000
+
+ros-indigo-lms1xx (0.1.0-0saucy) saucy; urgency=high
+
+  * Fix example launch file and install it.
+  * Fix project name in CMakeLists.
+  * Adding original author, readme
+  * Contributors: Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 27 Feb 2014 05:00:00 -0000
+
+ros-indigo-lms1xx (0.0.1-0saucy) saucy; urgency=high
+
+  * Initial release
+  * Contributors: MLefebvre, Mike Purvis, Prasenjit Mukherjee
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 27 Feb 2014 05:00:00 -0000
+
+
